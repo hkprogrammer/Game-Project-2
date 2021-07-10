@@ -1,0 +1,26 @@
+{
+  "name": "premove-chess",
+  "version": "1.0.0",
+  "description": "Premove Chess Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkprogrammer/Game-Project-2.git"
+  },
+  "keywords": [
+    "Chess",
+    "Premove"
+  ],
+  "author": "Studio Browns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkprogrammer/Game-Project-2/issues"
+  },
+  "homepage": "https://github.com/hkprogrammer/Game-Project-2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
